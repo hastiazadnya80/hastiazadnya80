@@ -17,10 +17,10 @@
 
 ## 🧠 About Me
 
-I'm a Data Science & Engineering graduate student at **Politecnico di Torino**, with a B.Sc. in Software Engineering. I build end-to-end ML pipelines — from raw data to deployed models — with a focus on **computer vision**, **NLP**, and **predictive modeling**.
+I'm a Data Science & Engineering  student at **Politecnico di Torino**, with a B.Sc. in Software Engineering. I build end-to-end ML pipelines — from raw data to deployed models — with a focus on **computer vision**, **NLP**, and **predictive modeling**.
 
 - 🔭 Currently working on advanced ML/AI projects as part of my Master's
-- 🌱 Deepening expertise in Deep Learning, LLMs, and Big Data systems
+- 🌱 Deepening expertise in Deep Learning, LLMs
 - 💼 Previously a **Software Engineer** at Polino (Tehran), building data-driven web apps
 - 🌍 Languages: English (C1) · Italian (A1) · Persian (Native)
 
@@ -83,17 +83,9 @@ I'm a Data Science & Engineering graduate student at **Politecnico di Torino**, 
 - 🏅 **Supervised Machine Learning: Regression & Classification** — DeepLearning.AI
 - 🏅 **Deep Learning Utilization** — DeepLearning.AI
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hastiazadnya80&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hastiazadnya80&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
 
 ---
 
 <p align="center">
-  <em>Open to research collaborations and ML/AI opportunities 🚀</em>
+  <em>Open to collaborations and ML/AI opportunities 🚀</em>
 </p>
