@@ -1,19 +1,20 @@
-## Hi there 👋
+# Hi, I'm Hasti Azadnia
 
-<h1 align="center">Hi, I'm Hasti Azadnia 👋</h1>
+MSc Data Science & Engineering @ Politecnico di Torino  
+Interested in Machine Learning, Computer Vision, NLP, and applied AI systems.
 
-<p align="center">
-  <em>MSc Data Science & Engineering · Politecnico di Torino</em><br/>
-  <em>Machine Learning · Computer Vision · NLP · Big Data</em>
-</p>
+## Featured Projects
+- **Pose6D: 6D Object Pose Estimation from RGB-D Images**  
+  YOLOv8 + PoseNet-inspired RGB-D regression on LineMOD, achieving **99.6% precision** in detection and **17% lower pose error** than the RGB-only baseline.
 
-<p align="center">
-  <a href="https://linkedin.com/in/hastiazadnia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:hastiazadnya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Location-Turin%2C%20Italy-blue?style=for-the-badge&logo=google-maps&logoColor=white"/>
-</p>
+- **SigExt Prompt Compression for Summarization**  
+  Salience-guided prompt compression for LLM summarization, reducing input tokens by **up to 79%** while preserving summary quality.
 
----
+## Tech
+Python, PyTorch, scikit-learn, OpenCV, Pandas, SQL, Jupyter, Git
+
+## Links
+- LinkedIn: [in/hastiazadnia](https://linkedin.com/in/hastiazadnia)
 
 ## 🧠 About Me
 
