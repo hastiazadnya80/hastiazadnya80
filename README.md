@@ -14,11 +14,9 @@
 
 ## About Me
 
-I am a Data Science & Engineering graduate student at **Politecnico di Torino**, with a B.Sc. in Software Engineering. My work sits at the intersection of **machine learning**, **computer vision**, and **natural language processing**, with a focus on building end-to-end systems that are both technically rigorous and practically impactful.
+I am a Master’s student in Data Science and Engineering at Politecnico di Torino, with a background in Software Engineering. My work focuses on the intersection of Machine Learning, Computer Vision, and Natural Language Processing, with an emphasis on designing end-to-end systems that are both technically robust and practically impactful.
 
-Currently contributing to a joint **Politecnico di Torino / IIT** research project on multimodal operando electrochemistry, applying signal processing and Python-based data analysis to Raman spectroscopy datasets.
-
-Previously a **Software Engineer** at Polino (Tehran), where I built full-stack data-driven web applications and integrated ML pipelines into production environments.
+Previously, I worked as a Software Engineer at Polino (Tehran), where I developed full-stack, data-driven web applications and contributed to the integration of machine learning pipelines into production systems.
 
 ---
 
